@@ -11,7 +11,7 @@ Track your progress using the checkboxes.
 
 ### Day 1 — Arrays
 - [✅] Two Sum  
-- [ ] Move Zeroes  
+- [✅] Move Zeroes  
 
 ### Day 2 — Arrays
 - [ ] Best Time to Buy and Sell Stock  
